@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Para o Meu Amor 💖</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #ffe6e6, #fff);
+            text-align: center;
+            padding: 30px;
+        }
+        h1 {
+            color: #e60073;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 20px;
+            color: #333;
+            margin: 10px 0;
+        }
+        img {
+            max-width: 400px;
+            margin-top: 20px;
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.2);
+        }
+        .datas {
+            margin-top: 30px;
+            text-align: center;
+            font-size: 18px;
+            color: #555;
+        }
+        .datas ul {
+            list-style: none;
+            padding: 0;
+        }
+        .datas li {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>💖 Para a minha Princesa 💖</h1>
+    <p>Desde o primeiro instante em que te vi, algo mudou dentro de mim. Não foi só um olhar, foi uma conexão que me fez querer estar ao seu lado em todos os momentos. Você é luz, carinho e força na minha vida. Obrigada por ser quem você é e por me permitir te amar. Estou aqui, sempre, para o que precisar.
+
+Com amor,
+Ariellen</p>
+    <img src="foto_namoridas.jpg" alt="Foto nossa">
+    
+    <div class="datas">
+        <h2>Nossa História</h2>
+        <ul>
+            <li>👫 Quando nos conhecemos: <strong>15/02/2025</strong></li>
+            <li>💍 Quando começamos a namorar: <strong>09/03/2025</strong></li>
+            <li>🎉 Hoje, Dia dos Namorados: <strong>12/06/2025</strong></li>
+        </ul>
+    </div>
+    </body>
+</html>
